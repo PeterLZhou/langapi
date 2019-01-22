@@ -1,6 +1,6 @@
 {
   "name": "langapi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Translation with one function call. http://docs.langapi.co, https://www.langapi.co",
   "main": "dist/index.js",
   "scripts": {
